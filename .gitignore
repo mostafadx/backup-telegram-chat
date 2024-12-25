@@ -1,0 +1,5 @@
+env
+*.session
+*.b64
+backup
+test
